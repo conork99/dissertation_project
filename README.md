@@ -11,6 +11,4 @@ This project served as my dissertation research for my MSc Bioinformatics at the
 Under the folder "code_mres_conor" there is another folder with the same name which contains all the training and testing scripts for our model and all of the baselines. The codes for the model architectures are in the "lib" folder, found in the same place as the training and testing scripts. The pre-processed images that we used are included in the "h5py_FGADR" folder. Note: these images were obtained from the FGADR dataset created by Zhou et al. (2021).
 
 ## How to adapt this project for your own use
-Ensure that the file and folder locations specified in the model architecture script files, as well as the training and testing script files, are modified to be specific to your device. Also, be sure to create an output folder in the appropriate location for the model to save to when running the training script. The folder will be referred to in the training scripts as model_grading_seg and was located within the first code_mres_conor folder. 
-
-I hope this is useful.
+Ensure that the file and folder locations specified in the model architecture script files, as well as the training and testing script files, are modified to be specific to your device. Also, be sure to create an output folder in the appropriate location for the model to save to when running the training script. The folder will be referred to in the training scripts as model_grading_seg and was located within the first code_mres_conor folder.
